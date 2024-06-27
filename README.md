@@ -109,6 +109,9 @@ The project comes pre-configured with:
 - [**ESLint**](https://eslint.org/) - Configured to find and fix common problems in the code and enforce best practices.
 - [**Prettier**](https://prettier.io/) - Integrated with ESLint for consistent code formatting.
 - [**Husky**](https://typicode.github.io/husky/) & [**LintStaged**](https://www.npmjs.com/package/lint-staged): Automatically lint and format staged files before committing.
+- [**Axios**](https://axios-http.com/) - A promise-based HTTP client for making requests.
+- [**TanStack Query**](https://tanstack.com/query/latest)- Powerful data-fetching and state management for React applications.
+- [**next/third-party**](https://nextjs.org/docs/app/building-your-application/optimizing/third-party-libraries) - Integrations and configurations for using third-party packages with Next.js.
 
 ## SEO
 
